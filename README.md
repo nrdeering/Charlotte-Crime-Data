@@ -1,2 +1,2 @@
-# Charlotte-Crime-Data
+# Crime-Data
 Project 1
