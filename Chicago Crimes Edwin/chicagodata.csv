@@ -1,0 +1,337 @@
+agency_name,state,state_abb,year,month,date,crosswalk_agency_name,population_group,actual_murder,actual_manslaughter,actual_rape_total,actual_robbery_total,actual_assault_total,actual_burg_total,actual_theft_total,actual_mtr_veh_theft_total,actual_all_crimes,actual_assault_aggravated,actual_index_violent,actual_index_property,actual_index_total
+chicago heights,illinois,IL,2018,january,43101,chicago heights police dept,"city 25,000 thru 49,999",1,0,4,9,9,13,52,19,107,9,23,84,107
+chicago heights,illinois,IL,2018,february,43132,chicago heights police dept,"city 25,000 thru 49,999",2,0,3,7,6,10,17,12,57,6,18,39,57
+chicago heights,illinois,IL,2018,march,43160,chicago heights police dept,"city 25,000 thru 49,999",0,0,2,17,11,7,51,15,103,11,30,73,103
+chicago heights,illinois,IL,2018,april,43191,chicago heights police dept,"city 25,000 thru 49,999",0,0,7,6,0,18,19,8,58,0,13,45,58
+chicago heights,illinois,IL,2018,may,43221,chicago heights police dept,"city 25,000 thru 49,999",1,0,2,5,12,23,39,3,85,12,20,65,85
+chicago heights,illinois,IL,2018,june,43252,chicago heights police dept,"city 25,000 thru 49,999",1,0,5,13,16,19,28,6,88,16,35,53,88
+chicago heights,illinois,IL,2018,july,43282,chicago heights police dept,"city 25,000 thru 49,999",0,0,1,7,17,22,33,18,98,17,25,73,98
+chicago heights,illinois,IL,2018,august,43313,chicago heights police dept,"city 25,000 thru 49,999",0,0,1,14,9,15,18,4,61,9,24,37,61
+chicago heights,illinois,IL,2018,september,43344,chicago heights police dept,"city 25,000 thru 49,999",2,0,1,6,13,25,41,10,98,13,22,76,98
+chicago heights,illinois,IL,2018,october,43374,chicago heights police dept,"city 25,000 thru 49,999",1,0,0,15,13,24,22,11,86,13,29,57,86
+chicago heights,illinois,IL,2018,november,43405,chicago heights police dept,"city 25,000 thru 49,999",1,0,3,8,5,20,27,7,71,5,17,54,71
+chicago heights,illinois,IL,2018,december,43435,chicago heights police dept,"city 25,000 thru 49,999",0,0,3,11,12,22,16,8,72,12,26,46,72
+chicago fire dpt arson i,illinois,IL,2018,january,43101,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,february,43132,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,march,43160,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,april,43191,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,may,43221,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,june,43252,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,july,43282,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,august,43313,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,september,43344,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,october,43374,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,november,43405,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2018,december,43435,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago ridge,illinois,IL,2018,january,43101,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,0,1,28,0,29,0,0,29,29
+chicago ridge,illinois,IL,2018,february,43132,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,0,1,34,0,35,0,0,35,35
+chicago ridge,illinois,IL,2018,march,43160,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,0,0,44,1,45,0,0,45,45
+chicago ridge,illinois,IL,2018,april,43191,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,0,1,21,1,23,0,0,23,23
+chicago ridge,illinois,IL,2018,may,43221,chicago ridge police dept,"city 10,000 thru 24,999",0,0,1,0,0,3,48,2,54,0,1,53,54
+chicago ridge,illinois,IL,2018,june,43252,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,1,1,3,46,0,51,1,2,49,51
+chicago ridge,illinois,IL,2018,july,43282,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,4,3,38,5,50,4,4,46,50
+chicago ridge,illinois,IL,2018,august,43313,chicago ridge police dept,"city 10,000 thru 24,999",0,0,1,0,1,0,40,6,48,1,2,46,48
+chicago ridge,illinois,IL,2018,september,43344,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,2,4,4,29,2,41,4,6,35,41
+chicago ridge,illinois,IL,2018,october,43374,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,1,0,2,27,4,34,0,1,33,34
+chicago ridge,illinois,IL,2018,november,43405,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,1,1,0,27,2,31,1,2,29,31
+chicago ridge,illinois,IL,2018,december,43435,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,0,2,27,0,29,0,0,29,29
+chicago & northwesternrp,illinois,IL,2018,january,43101,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,february,43132,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,march,43160,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,april,43191,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,may,43221,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,june,43252,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,july,43282,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,august,43313,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,september,43344,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,october,43374,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,november,43405,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2018,december,43435,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+south chicago heights,illinois,IL,2018,january,43101,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,0,12,0,12,0,0,12,12
+south chicago heights,illinois,IL,2018,february,43132,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,0,8,1,9,0,0,9,9
+south chicago heights,illinois,IL,2018,march,43160,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,1,10,0,11,0,0,11,11
+south chicago heights,illinois,IL,2018,april,43191,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,1,0,10,0,11,1,1,10,11
+south chicago heights,illinois,IL,2018,may,43221,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,2,0,10,0,12,2,2,10,12
+south chicago heights,illinois,IL,2018,june,43252,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,0,1,17,2,21,0,1,20,21
+south chicago heights,illinois,IL,2018,july,43282,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,0,16,0,16,0,0,16,16
+south chicago heights,illinois,IL,2018,august,43313,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,1,11,1,13,0,0,13,13
+south chicago heights,illinois,IL,2018,september,43344,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,0,1,9,2,13,0,1,12,13
+south chicago heights,illinois,IL,2018,october,43374,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,0,12,1,13,0,0,13,13
+south chicago heights,illinois,IL,2018,november,43405,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,2,3,10,0,16,2,3,13,16
+south chicago heights,illinois,IL,2018,december,43435,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,1,15,2,18,0,0,18,18
+univ of il: chicago,illinois,IL,2018,january,43101,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,february,43132,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,march,43160,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,april,43191,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,may,43221,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,june,43252,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,july,43282,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,august,43313,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,september,43344,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,october,43374,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,november,43405,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2018,december,43435,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago state university,illinois,IL,2018,january,43101,chicago state university police,"city under 2,500",0,0,0,0,0,1,5,0,6,0,0,6,6
+chicago state university,illinois,IL,2018,february,43132,chicago state university police,"city under 2,500",0,0,0,0,0,0,5,0,5,0,0,5,5
+chicago state university,illinois,IL,2018,march,43160,chicago state university police,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago state university,illinois,IL,2018,april,43191,chicago state university police,"city under 2,500",0,0,0,0,0,0,6,0,6,0,0,6,6
+chicago state university,illinois,IL,2018,may,43221,chicago state university police,"city under 2,500",0,0,0,0,0,1,1,0,2,0,0,2,2
+chicago state university,illinois,IL,2018,june,43252,chicago state university police,"city under 2,500",0,0,0,0,0,0,1,0,1,0,0,1,1
+chicago state university,illinois,IL,2018,july,43282,chicago state university police,"city under 2,500",0,0,0,0,0,1,2,0,3,0,0,3,3
+chicago state university,illinois,IL,2018,august,43313,chicago state university police,"city under 2,500",0,0,0,0,0,1,3,0,4,0,0,4,4
+chicago state university,illinois,IL,2018,september,43344,chicago state university police,"city under 2,500",0,0,0,0,0,0,2,0,2,0,0,2,2
+chicago state university,illinois,IL,2018,october,43374,chicago state university police,"city under 2,500",0,0,0,0,0,0,1,0,1,0,0,1,1
+chicago state university,illinois,IL,2018,november,43405,chicago state university police,"city under 2,500",0,0,0,0,0,0,4,0,4,0,0,4,4
+chicago state university,illinois,IL,2018,december,43435,chicago state university police,"city under 2,500",0,0,0,0,0,0,2,0,2,0,0,2,2
+loyola univ of chicago,illinois,IL,2018,january,43101,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,february,43132,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,march,43160,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,april,43191,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,may,43221,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,june,43252,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,july,43282,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,august,43313,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,september,43344,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,october,43374,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,november,43405,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2018,december,43435,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,january,43101,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,february,43132,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,march,43160,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,april,43191,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,may,43221,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,june,43252,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,july,43282,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,august,43313,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,september,43344,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,october,43374,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,november,43405,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2018,december,43435,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of chicago: cook c,illinois,IL,2018,january,43101,NA,"city under 2,500",0,0,0,0,1,0,10,1,12,1,1,11,12
+univ of chicago: cook c,illinois,IL,2018,february,43132,NA,"city under 2,500",0,0,0,0,0,2,13,0,15,0,0,15,15
+univ of chicago: cook c,illinois,IL,2018,march,43160,NA,"city under 2,500",0,0,0,0,0,0,13,1,14,0,0,14,14
+univ of chicago: cook c,illinois,IL,2018,april,43191,NA,"city under 2,500",0,0,0,2,1,3,12,0,18,1,3,15,18
+univ of chicago: cook c,illinois,IL,2018,may,43221,NA,"city under 2,500",0,0,0,1,0,2,13,0,16,0,1,15,16
+univ of chicago: cook c,illinois,IL,2018,june,43252,NA,"city under 2,500",0,0,0,0,2,2,12,1,17,2,2,15,17
+univ of chicago: cook c,illinois,IL,2018,july,43282,NA,"city under 2,500",0,0,0,1,1,2,19,0,23,1,2,21,23
+univ of chicago: cook c,illinois,IL,2018,august,43313,NA,"city under 2,500",0,0,0,1,1,2,20,0,24,1,2,22,24
+univ of chicago: cook c,illinois,IL,2018,september,43344,NA,"city under 2,500",0,0,0,1,2,1,17,0,21,2,3,18,21
+univ of chicago: cook c,illinois,IL,2018,october,43374,NA,"city under 2,500",0,0,0,0,1,3,27,0,31,1,1,30,31
+univ of chicago: cook c,illinois,IL,2018,november,43405,NA,"city under 2,500",0,0,0,1,1,3,22,0,27,1,2,25,27
+univ of chicago: cook c,illinois,IL,2018,december,43435,NA,"city under 2,500",0,0,0,1,1,1,11,1,15,1,2,13,15
+loyola univ of chicago,illinois,IL,2018,january,43101,loyola university,"city under 2,500",0,0,1,0,0,0,4,0,5,0,1,4,5
+loyola univ of chicago,illinois,IL,2018,february,43132,loyola university,"city under 2,500",0,0,0,2,0,0,13,0,15,0,2,13,15
+loyola univ of chicago,illinois,IL,2018,march,43160,loyola university,"city under 2,500",0,0,0,0,1,0,9,0,10,1,1,9,10
+loyola univ of chicago,illinois,IL,2018,april,43191,loyola university,"city under 2,500",0,0,0,2,0,0,16,0,18,0,2,16,18
+loyola univ of chicago,illinois,IL,2018,may,43221,loyola university,"city under 2,500",0,0,0,1,0,0,5,1,7,0,1,6,7
+loyola univ of chicago,illinois,IL,2018,june,43252,loyola university,"city under 2,500",0,0,0,0,0,0,7,0,7,0,0,7,7
+loyola univ of chicago,illinois,IL,2018,july,43282,loyola university,"city under 2,500",0,0,0,1,0,0,14,1,16,0,1,15,16
+loyola univ of chicago,illinois,IL,2018,august,43313,loyola university,"city under 2,500",0,0,0,0,1,0,9,0,10,1,1,9,10
+loyola univ of chicago,illinois,IL,2018,september,43344,loyola university,"city under 2,500",0,0,0,1,0,0,12,0,13,0,1,12,13
+loyola univ of chicago,illinois,IL,2018,october,43374,loyola university,"city under 2,500",0,0,0,4,1,0,11,1,17,1,5,12,17
+loyola univ of chicago,illinois,IL,2018,november,43405,loyola university,"city under 2,500",0,0,1,0,1,0,16,0,18,1,2,16,18
+loyola univ of chicago,illinois,IL,2018,december,43435,loyola university,"city under 2,500",0,0,0,2,1,1,7,0,11,1,3,8,11
+west chicago,illinois,IL,2018,january,43101,west chicago police dept,"city 25,000 thru 49,999",0,0,0,0,1,3,12,0,16,1,1,15,16
+west chicago,illinois,IL,2018,february,43132,west chicago police dept,"city 25,000 thru 49,999",0,0,0,1,0,3,13,2,19,0,1,18,19
+west chicago,illinois,IL,2018,march,43160,west chicago police dept,"city 25,000 thru 49,999",0,0,0,1,1,4,26,2,34,1,2,32,34
+west chicago,illinois,IL,2018,april,43191,west chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,7,18,3,28,0,0,28,28
+west chicago,illinois,IL,2018,may,43221,west chicago police dept,"city 25,000 thru 49,999",0,0,0,0,1,3,15,1,20,1,1,19,20
+west chicago,illinois,IL,2018,june,43252,west chicago police dept,"city 25,000 thru 49,999",0,0,0,0,1,5,21,0,27,1,1,26,27
+west chicago,illinois,IL,2018,july,43282,west chicago police dept,"city 25,000 thru 49,999",0,0,0,0,3,3,26,2,34,3,3,31,34
+west chicago,illinois,IL,2018,august,43313,west chicago police dept,"city 25,000 thru 49,999",0,0,0,1,2,5,29,2,39,2,3,36,39
+west chicago,illinois,IL,2018,september,43344,west chicago police dept,"city 25,000 thru 49,999",0,0,1,0,2,3,30,1,37,2,3,34,37
+west chicago,illinois,IL,2018,october,43374,west chicago police dept,"city 25,000 thru 49,999",0,0,1,2,0,4,25,0,32,0,3,29,32
+west chicago,illinois,IL,2018,november,43405,west chicago police dept,"city 25,000 thru 49,999",0,0,1,3,0,4,17,1,26,0,4,22,26
+west chicago,illinois,IL,2018,december,43435,west chicago police dept,"city 25,000 thru 49,999",0,0,4,1,1,7,16,1,30,1,6,24,30
+north chicago,illinois,IL,2018,january,43101,north chicago police dept,"city 25,000 thru 49,999",1,0,0,2,3,4,1,1,12,3,6,6,12
+north chicago,illinois,IL,2018,february,43132,north chicago police dept,"city 25,000 thru 49,999",0,0,1,3,4,2,2,1,13,4,8,5,13
+north chicago,illinois,IL,2018,march,43160,north chicago police dept,"city 25,000 thru 49,999",0,0,3,0,4,1,3,0,11,4,7,4,11
+north chicago,illinois,IL,2018,april,43191,north chicago police dept,"city 25,000 thru 49,999",0,0,1,1,8,4,1,1,16,8,10,6,16
+north chicago,illinois,IL,2018,may,43221,north chicago police dept,"city 25,000 thru 49,999",0,0,3,4,4,3,3,2,19,4,11,8,19
+north chicago,illinois,IL,2018,june,43252,north chicago police dept,"city 25,000 thru 49,999",0,0,0,2,6,4,2,0,14,6,8,6,14
+north chicago,illinois,IL,2018,july,43282,north chicago police dept,"city 25,000 thru 49,999",0,0,1,1,4,0,3,0,9,4,6,3,9
+north chicago,illinois,IL,2018,august,43313,north chicago police dept,"city 25,000 thru 49,999",1,0,1,1,3,3,2,0,11,3,6,5,11
+north chicago,illinois,IL,2018,september,43344,north chicago police dept,"city 25,000 thru 49,999",0,0,4,2,7,5,0,0,18,7,13,5,18
+north chicago,illinois,IL,2018,october,43374,north chicago police dept,"city 25,000 thru 49,999",0,0,1,1,0,2,3,0,7,0,2,5,7
+north chicago,illinois,IL,2018,november,43405,north chicago police dept,"city 25,000 thru 49,999",0,0,1,2,3,1,4,1,12,3,6,6,12
+north chicago,illinois,IL,2018,december,43435,north chicago police dept,"city 25,000 thru 49,999",0,0,5,1,4,1,0,1,12,4,10,2,12
+chicago,illinois,IL,2018,january,43101,chicago police dept,"city 1,000,000+",52,0,183,1074,1059,1272,4931,1191,9762,1059,2368,7394,9762
+chicago,illinois,IL,2018,february,43132,chicago police dept,"city 1,000,000+",49,0,123,788,993,1009,4381,894,8237,993,1953,6284,8237
+chicago,illinois,IL,2018,march,43160,chicago police dept,"city 1,000,000+",39,0,114,783,1064,929,4477,812,8218,1064,2000,6218,8218
+chicago,illinois,IL,2018,april,43191,chicago police dept,"city 1,000,000+",48,0,164,851,1363,963,4786,848,9023,1363,2426,6597,9023
+chicago,illinois,IL,2018,may,43221,chicago police dept,"city 1,000,000+",58,0,150,903,1481,1054,5323,839,9808,1481,2592,7216,9808
+chicago,illinois,IL,2018,june,43252,chicago police dept,"city 1,000,000+",85,0,136,983,1527,1090,5760,1018,10599,1527,2731,7868,10599
+chicago,illinois,IL,2018,july,43282,chicago police dept,"city 1,000,000+",77,0,168,1005,1601,1200,6070,1006,11127,1601,2851,8276,11127
+chicago,illinois,IL,2018,august,43313,chicago police dept,"city 1,000,000+",52,0,172,1175,1437,1145,6436,967,11384,1437,2836,8548,11384
+chicago,illinois,IL,2018,september,43344,chicago police dept,"city 1,000,000+",59,0,152,1005,1440,1039,5463,932,10090,1440,2656,7434,10090
+chicago,illinois,IL,2018,october,43374,chicago police dept,"city 1,000,000+",58,0,143,1117,1299,1185,5682,1000,10484,1299,2617,7867,10484
+chicago,illinois,IL,2018,november,43405,chicago police dept,"city 1,000,000+",36,0,126,1127,1130,1072,5302,975,9768,1130,2419,7349,9768
+chicago,illinois,IL,2018,december,43435,chicago police dept,"city 1,000,000+",40,0,131,1076,1041,954,5223,1096,9561,1041,2288,7273,9561
+chicago heights,illinois,IL,2017,january,42736,chicago heights police dept,"city 25,000 thru 49,999",1,0,0,6,1,12,40,9,69,1,8,61,69
+chicago heights,illinois,IL,2017,february,42767,chicago heights police dept,"city 25,000 thru 49,999",1,0,2,2,6,5,36,6,58,6,11,47,58
+chicago heights,illinois,IL,2017,march,42795,chicago heights police dept,"city 25,000 thru 49,999",0,0,1,3,5,4,42,8,63,5,9,54,63
+chicago heights,illinois,IL,2017,april,42826,chicago heights police dept,"city 25,000 thru 49,999",1,0,2,6,0,10,50,6,75,0,9,66,75
+chicago heights,illinois,IL,2017,may,42856,chicago heights police dept,"city 25,000 thru 49,999",0,0,3,11,16,9,37,6,82,16,30,52,82
+chicago heights,illinois,IL,2017,june,42887,chicago heights police dept,"city 25,000 thru 49,999",1,0,1,2,0,17,47,8,76,0,4,72,76
+chicago heights,illinois,IL,2017,july,42917,chicago heights police dept,"city 25,000 thru 49,999",0,0,5,7,13,11,59,0,95,13,25,70,95
+chicago heights,illinois,IL,2017,august,42948,chicago heights police dept,"city 25,000 thru 49,999",1,0,0,6,4,11,59,3,84,4,11,73,84
+chicago heights,illinois,IL,2017,september,42979,chicago heights police dept,"city 25,000 thru 49,999",0,0,4,7,7,8,67,3,96,7,18,78,96
+chicago heights,illinois,IL,2017,october,43009,chicago heights police dept,"city 25,000 thru 49,999",1,0,3,8,5,12,46,9,84,5,17,67,84
+chicago heights,illinois,IL,2017,november,43040,chicago heights police dept,"city 25,000 thru 49,999",0,0,6,3,6,10,60,10,95,6,15,80,95
+chicago heights,illinois,IL,2017,december,43070,chicago heights police dept,"city 25,000 thru 49,999",0,0,1,13,4,17,54,14,103,4,18,85,103
+chicago fire dpt arson i,illinois,IL,2017,january,42736,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,february,42767,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,march,42795,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,april,42826,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,may,42856,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,june,42887,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,july,42917,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,august,42948,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,september,42979,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,october,43009,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,november,43040,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago fire dpt arson i,illinois,IL,2017,december,43070,arson investigations chicago fire dept chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago ridge,illinois,IL,2017,january,42736,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,3,0,2,40,6,51,0,3,48,51
+chicago ridge,illinois,IL,2017,february,42767,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,1,3,47,2,53,1,1,52,53
+chicago ridge,illinois,IL,2017,march,42795,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,2,0,2,48,0,52,0,2,50,52
+chicago ridge,illinois,IL,2017,april,42826,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,3,1,1,59,2,66,1,4,62,66
+chicago ridge,illinois,IL,2017,may,42856,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,1,0,4,48,3,56,0,1,55,56
+chicago ridge,illinois,IL,2017,june,42887,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,0,0,2,39,1,42,0,0,42,42
+chicago ridge,illinois,IL,2017,july,42917,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,1,2,0,46,1,50,2,3,47,50
+chicago ridge,illinois,IL,2017,august,42948,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,1,2,2,39,1,45,2,3,42,45
+chicago ridge,illinois,IL,2017,september,42979,chicago ridge police dept,"city 10,000 thru 24,999",0,0,1,4,0,0,42,1,48,0,5,43,48
+chicago ridge,illinois,IL,2017,october,43009,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,2,0,2,54,3,61,0,2,59,61
+chicago ridge,illinois,IL,2017,november,43040,chicago ridge police dept,"city 10,000 thru 24,999",0,0,1,0,1,3,29,1,35,1,2,33,35
+chicago ridge,illinois,IL,2017,december,43070,chicago ridge police dept,"city 10,000 thru 24,999",0,0,0,1,2,1,40,1,45,2,3,42,45
+chicago & northwesternrp,illinois,IL,2017,january,42736,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,february,42767,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,march,42795,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,april,42826,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,may,42856,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,june,42887,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,july,42917,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,august,42948,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,september,42979,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,october,43009,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,november,43040,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago & northwesternrp,illinois,IL,2017,december,43070,chicago & northwesternrp,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+south chicago heights,illinois,IL,2017,january,42736,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,1,3,4,1,9,1,1,8,9
+south chicago heights,illinois,IL,2017,february,42767,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,1,1,13,2,18,1,2,16,18
+south chicago heights,illinois,IL,2017,march,42795,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,0,2,1,3,0,0,3,3
+south chicago heights,illinois,IL,2017,april,42826,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,2,0,9,2,14,2,3,11,14
+south chicago heights,illinois,IL,2017,may,42856,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,1,3,8,0,12,1,1,11,12
+south chicago heights,illinois,IL,2017,june,42887,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,0,0,10,1,12,0,1,11,12
+south chicago heights,illinois,IL,2017,july,42917,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,3,0,15,0,18,3,3,15,18
+south chicago heights,illinois,IL,2017,august,42948,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,1,15,0,16,0,0,16,16
+south chicago heights,illinois,IL,2017,september,42979,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,3,2,14,3,23,3,4,19,23
+south chicago heights,illinois,IL,2017,october,43009,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,2,1,0,9,1,13,1,3,10,13
+south chicago heights,illinois,IL,2017,november,43040,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,0,0,2,21,0,23,0,0,23,23
+south chicago heights,illinois,IL,2017,december,43070,south chicago heights police dept,"city 2,500 thru 9,999",0,0,0,1,0,4,8,0,13,0,1,12,13
+univ of il: chicago,illinois,IL,2017,january,42736,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,february,42767,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,march,42795,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,april,42826,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,may,42856,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,june,42887,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,july,42917,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,august,42948,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,september,42979,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,october,43009,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,november,43040,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of il: chicago,illinois,IL,2017,december,43070,university of illinois at chicago police dept,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago state university,illinois,IL,2017,january,42736,chicago state university police,"city under 2,500",0,0,0,0,0,0,1,0,1,0,0,1,1
+chicago state university,illinois,IL,2017,february,42767,chicago state university police,"city under 2,500",0,0,0,0,1,0,0,0,1,1,1,0,1
+chicago state university,illinois,IL,2017,march,42795,chicago state university police,"city under 2,500",0,0,0,0,0,0,3,0,3,0,0,3,3
+chicago state university,illinois,IL,2017,april,42826,chicago state university police,"city under 2,500",0,0,0,0,0,0,1,0,1,0,0,1,1
+chicago state university,illinois,IL,2017,may,42856,chicago state university police,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago state university,illinois,IL,2017,june,42887,chicago state university police,"city under 2,500",0,0,0,0,0,0,4,0,4,0,0,4,4
+chicago state university,illinois,IL,2017,july,42917,chicago state university police,"city under 2,500",0,0,0,0,0,0,2,0,2,0,0,2,2
+chicago state university,illinois,IL,2017,august,42948,chicago state university police,"city under 2,500",0,0,0,0,0,0,2,0,2,0,0,2,2
+chicago state university,illinois,IL,2017,september,42979,chicago state university police,"city under 2,500",0,0,0,0,0,0,3,0,3,0,0,3,3
+chicago state university,illinois,IL,2017,october,43009,chicago state university police,"city under 2,500",0,0,0,2,0,0,3,0,5,0,2,3,5
+chicago state university,illinois,IL,2017,november,43040,chicago state university police,"city under 2,500",0,0,0,0,0,0,2,0,2,0,0,2,2
+chicago state university,illinois,IL,2017,december,43070,chicago state university police,"city under 2,500",0,0,0,0,0,0,1,0,1,0,0,1,1
+loyola univ of chicago,illinois,IL,2017,january,42736,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,february,42767,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,march,42795,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,april,42826,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,may,42856,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,june,42887,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,july,42917,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,august,42948,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,september,42979,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,october,43009,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,november,43040,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+loyola univ of chicago,illinois,IL,2017,december,43070,loyola univ of chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,january,42736,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,february,42767,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,march,42795,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,april,42826,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,may,42856,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,june,42887,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,july,42917,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,august,42948,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,september,42979,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,october,43009,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,november,43040,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago transit authorit,illinois,IL,2017,december,43070,chicago transit authority pd chicago,"city under 2,500",0,0,0,0,0,0,0,0,0,0,0,0,0
+univ of chicago: cook c,illinois,IL,2017,january,42736,NA,"city under 2,500",0,0,0,1,2,0,13,0,16,2,3,13,16
+univ of chicago: cook c,illinois,IL,2017,february,42767,NA,"city under 2,500",0,0,0,0,0,0,12,0,12,0,0,12,12
+univ of chicago: cook c,illinois,IL,2017,march,42795,NA,"city under 2,500",0,0,0,0,1,0,17,0,18,1,1,17,18
+univ of chicago: cook c,illinois,IL,2017,april,42826,NA,"city under 2,500",0,0,0,2,0,0,19,0,21,0,2,19,21
+univ of chicago: cook c,illinois,IL,2017,may,42856,NA,"city under 2,500",0,0,0,1,0,1,13,0,15,0,1,14,15
+univ of chicago: cook c,illinois,IL,2017,june,42887,NA,"city under 2,500",0,0,0,1,0,0,19,0,20,0,1,19,20
+univ of chicago: cook c,illinois,IL,2017,july,42917,NA,"city under 2,500",0,0,0,0,0,0,17,1,18,0,0,18,18
+univ of chicago: cook c,illinois,IL,2017,august,42948,NA,"city under 2,500",0,0,0,1,1,0,17,0,19,1,2,17,19
+univ of chicago: cook c,illinois,IL,2017,september,42979,NA,"city under 2,500",0,0,0,0,0,0,21,0,21,0,0,21,21
+univ of chicago: cook c,illinois,IL,2017,october,43009,NA,"city under 2,500",0,0,0,1,2,0,30,0,33,2,3,30,33
+univ of chicago: cook c,illinois,IL,2017,november,43040,NA,"city under 2,500",0,0,0,0,1,0,21,0,22,1,1,21,22
+univ of chicago: cook c,illinois,IL,2017,december,43070,NA,"city under 2,500",0,0,0,0,0,2,12,0,14,0,0,14,14
+loyola univ of chicago,illinois,IL,2017,january,42736,loyola university,"city under 2,500",0,0,0,1,0,0,5,0,6,0,1,5,6
+loyola univ of chicago,illinois,IL,2017,february,42767,loyola university,"city under 2,500",0,0,0,1,0,5,8,0,14,0,1,13,14
+loyola univ of chicago,illinois,IL,2017,march,42795,loyola university,"city under 2,500",0,0,0,1,0,1,9,0,11,0,1,10,11
+loyola univ of chicago,illinois,IL,2017,april,42826,loyola university,"city under 2,500",0,0,0,2,0,0,4,0,6,0,2,4,6
+loyola univ of chicago,illinois,IL,2017,may,42856,loyola university,"city under 2,500",0,0,0,0,0,0,7,0,7,0,0,7,7
+loyola univ of chicago,illinois,IL,2017,june,42887,loyola university,"city under 2,500",0,0,2,1,0,0,6,1,10,0,3,7,10
+loyola univ of chicago,illinois,IL,2017,july,42917,loyola university,"city under 2,500",0,0,0,1,0,1,6,0,8,0,1,7,8
+loyola univ of chicago,illinois,IL,2017,august,42948,loyola university,"city under 2,500",0,0,1,1,0,1,10,0,13,0,2,11,13
+loyola univ of chicago,illinois,IL,2017,september,42979,loyola university,"city under 2,500",0,0,7,1,1,1,11,0,21,1,9,12,21
+loyola univ of chicago,illinois,IL,2017,october,43009,loyola university,"city under 2,500",0,0,1,0,0,1,17,0,19,0,1,18,19
+loyola univ of chicago,illinois,IL,2017,november,43040,loyola university,"city under 2,500",0,0,3,1,0,0,10,0,14,0,4,10,14
+loyola univ of chicago,illinois,IL,2017,december,43070,loyola university,"city under 2,500",0,0,1,0,0,0,8,0,9,0,1,8,9
+west chicago,illinois,IL,2017,january,42736,west chicago police dept,"city 25,000 thru 49,999",0,0,1,1,1,3,17,3,26,1,3,23,26
+west chicago,illinois,IL,2017,february,42767,west chicago police dept,"city 25,000 thru 49,999",0,0,0,1,1,4,20,2,28,1,2,26,28
+west chicago,illinois,IL,2017,march,42795,west chicago police dept,"city 25,000 thru 49,999",0,0,1,1,3,5,24,2,36,3,5,31,36
+west chicago,illinois,IL,2017,april,42826,west chicago police dept,"city 25,000 thru 49,999",0,0,0,1,2,6,15,0,24,2,3,21,24
+west chicago,illinois,IL,2017,may,42856,west chicago police dept,"city 25,000 thru 49,999",0,0,0,0,1,2,30,0,33,1,1,32,33
+west chicago,illinois,IL,2017,june,42887,west chicago police dept,"city 25,000 thru 49,999",0,0,1,0,0,5,18,1,25,0,1,24,25
+west chicago,illinois,IL,2017,july,42917,west chicago police dept,"city 25,000 thru 49,999",0,0,0,1,3,2,12,1,19,3,4,15,19
+west chicago,illinois,IL,2017,august,42948,west chicago police dept,"city 25,000 thru 49,999",0,0,1,1,0,2,16,1,21,0,2,19,21
+west chicago,illinois,IL,2017,september,42979,west chicago police dept,"city 25,000 thru 49,999",0,0,0,2,0,7,33,0,42,0,2,40,42
+west chicago,illinois,IL,2017,october,43009,west chicago police dept,"city 25,000 thru 49,999",0,0,0,1,2,5,13,0,21,2,3,18,21
+west chicago,illinois,IL,2017,november,43040,west chicago police dept,"city 25,000 thru 49,999",0,0,1,1,4,2,17,3,28,4,6,22,28
+west chicago,illinois,IL,2017,december,43070,west chicago police dept,"city 25,000 thru 49,999",0,0,1,0,1,3,18,1,24,1,2,22,24
+north chicago,illinois,IL,2017,january,42736,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,february,42767,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,march,42795,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,april,42826,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,may,42856,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,june,42887,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,july,42917,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,august,42948,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,september,42979,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,october,43009,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,november,43040,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+north chicago,illinois,IL,2017,december,43070,north chicago police dept,"city 25,000 thru 49,999",0,0,0,0,0,0,0,0,0,0,0,0,0
+chicago,illinois,IL,2017,january,42736,chicago police dept,"city 1,000,000+",52,0,122,1040,1023,1181,4471,993,8882,1023,2237,6645,8882
+chicago,illinois,IL,2017,february,42767,chicago police dept,"city 1,000,000+",46,0,110,703,934,842,3996,843,7474,934,1793,5681,7474
+chicago,illinois,IL,2017,march,42795,chicago police dept,"city 1,000,000+",46,0,135,786,1287,1048,4646,791,8739,1287,2254,6485,8739
+chicago,illinois,IL,2017,april,42826,chicago police dept,"city 1,000,000+",39,0,119,771,1213,944,4572,768,8426,1213,2142,6284,8426
+chicago,illinois,IL,2017,may,42856,chicago police dept,"city 1,000,000+",65,0,158,960,1530,1103,5030,829,9675,1530,2713,6962,9675
+chicago,illinois,IL,2017,june,42887,chicago police dept,"city 1,000,000+",75,0,161,905,1517,1079,5317,953,10007,1517,2658,7349,10007
+chicago,illinois,IL,2017,july,42917,chicago police dept,"city 1,000,000+",67,0,160,1127,1590,1350,5791,1062,11147,1590,2944,8203,11147
+chicago,illinois,IL,2017,august,42948,chicago police dept,"city 1,000,000+",95,0,157,1239,1600,1372,5967,1045,11475,1600,3091,8384,11475
+chicago,illinois,IL,2017,september,42979,chicago police dept,"city 1,000,000+",64,0,123,1028,1411,1369,5710,998,10703,1411,2626,8077,10703
+chicago,illinois,IL,2017,october,43009,chicago police dept,"city 1,000,000+",80,0,139,1150,1475,1308,5673,1039,10864,1475,2844,8020,10864
+chicago,illinois,IL,2017,november,43040,chicago police dept,"city 1,000,000+",78,0,114,1161,1232,1372,5204,1031,10192,1232,2585,7607,10192
+chicago,illinois,IL,2017,december,43070,chicago police dept,"city 1,000,000+",58,0,91,1087,1003,1290,4852,1121,9502,1003,2239,7263,9502
