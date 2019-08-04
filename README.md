@@ -1,2 +1,2 @@
 # Crime-Data
-All maerial in this branch was used in the presentation
+All material in this branch was used in the presentation
